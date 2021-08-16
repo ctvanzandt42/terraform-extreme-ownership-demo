@@ -35,8 +35,8 @@ resource "azurerm_resource_group" "rg" {
   location = "eastus"
 
   tags = {
-    Environment = "Terraform Getting Started"
-    Team        = "DevOps"
+    Environment = "Terraform Extreme Ownership"
+    Team        = "TF-EO"
   }
 }
 
